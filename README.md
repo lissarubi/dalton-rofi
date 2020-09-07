@@ -2,7 +2,7 @@
 
 Dalton is a minimal theme for Rofi, very black with some blue.
 
-![dalton](assets/dalton.png)
+![dalton](assets/screenshot.png)
 
 # Install
 

@@ -1,5 +1,7 @@
 # Dalton for Rofi
 
+> Dalton for Rofi is a Vim port of Dalton Theme, check out [Dalton Website](https://edersonferreira.github.io/dalton-website/) to get more dalton theme ports.
+
 Dalton is a minimal theme for Rofi, very black with some blue.
 
 ![dalton](assets/screenshot.png)
@@ -13,7 +15,3 @@ Create the directory `.config/rofi`, and copy the `dalton.rasi` to this folder.
 Now, you can use the argument `-theme` with dalton, like this:
 
 `rofi  -show drun -theme dalton`
-
-# More dalton themes for another programs
-
-[Dalton for Vim](https://github.com/edersonferreira/dalton-vim)

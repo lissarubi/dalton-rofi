@@ -1,6 +1,6 @@
 # Dalton for Rofi
 
-> Dalton for Rofi is a Vim port of Dalton Theme, check out [Dalton Website](https://edersonferreira.github.io/dalton-website/) to get more dalton theme ports.
+> Dalton for Rofi is a Rofi port of Dalton Theme, check out [Dalton Website](https://edersonferreira.github.io/dalton-website/) to get more dalton theme ports.
 
 Dalton is a minimal theme for Rofi, very black with some blue.
 
